@@ -30,7 +30,8 @@ a {
   color: #ff9900;
 }
 
-p, #footer {
+p,
+#footer {
   color: #7d7987;
   font-size: 14px;
   line-height: 28px;
@@ -43,7 +44,7 @@ p, #footer {
 #footer #line {
   width: 568px;
   height: 0px;
-  border: 1px #ECEFF2 solid;
+  border: 1px #eceff2 solid;
   margin: 0 auto 8px;
 }
 
