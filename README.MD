@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Apenas um projeto de uma pagina simples simulando que seja para uma empresa que venda movéis customizados!
 
-- [Acesse o projeto finalizado, online](http)
+- [Acesse o projeto finalizado, online](https://thiagocaltoe.github.io/PaginaSimplesMoveis/)
 
 ## :memo: Licença
 
